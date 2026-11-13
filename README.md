@@ -1,2 +1,15 @@
-# TechAbhi-CapCut
-Tech Abhi App Update &amp; Redirect
+[
+  {
+    "appName": "CapCut",
+    "packageName": "com.lemon.lvoverseas",
+    "versionCode": 19101602,
+    "updateUrl": "https://t.me/+7gH5VRxGIDZhODM1",
+    "title": "Update Required Version 28.0.0 PRO",
+    "description": "We have released a brand new update for CapCut with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
+    "isForce": true,
+    "isExpired": false,
+    "expiryDate": "2030-10-06",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Update Now"
+  }
+]
