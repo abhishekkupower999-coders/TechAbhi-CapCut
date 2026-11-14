@@ -6,8 +6,8 @@
     "updateUrl": "https://t.me/+7gH5VRxGIDZhODM1",
     "title": "Update Required Version 29.0.0 PRO",
     "description": "We have released a brand new update for CapCut with exclusive premium features and bug fixes. Please download the latest version now to continue using the app.",
-    "isForce": True,
-    "isExpired": True,
+    "isForce": false,
+    "isExpired": false,
     "expiryDate": "2030-10-06",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
